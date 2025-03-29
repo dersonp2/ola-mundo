@@ -12,7 +12,7 @@
 
 ## 🛠️ **Ferramentas Utilizadas**  
 🔹 Git  
-🔹 GitHub Desktop
+🔹 GitHub Desktop  
 🔹 VS Code  
 
 ## 📂 **Estrutura do Repositório**  
